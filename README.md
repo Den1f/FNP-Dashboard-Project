@@ -26,7 +26,8 @@ This project highlights actionable insights into revenue patterns, customer beha
 
 ## 📁 Files Included
 - `FNP Dashboard.png` – Snapshot of the Excel dashboard
-- `FNP_Sales_Dashboard.xlsx` – Full interactive Excel dashboard 
+- `FNP Sales Dashboard.xlsx` – Full interactive Excel dashboard
+- `FNP Dataset` – Dataset used in this Project
 
 ---
 
